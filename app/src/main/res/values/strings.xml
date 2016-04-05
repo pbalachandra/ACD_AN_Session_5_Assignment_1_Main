@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Google Search</string>
+    <string name="hint_text">Enter text to search in Google</string>
+    <string name="button_text">Search in Google</string>
+    <string name="search_link">https://www.google.co.in/search?q=%1s</string>
+</resources>
